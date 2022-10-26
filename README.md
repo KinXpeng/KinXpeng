@@ -3,7 +3,7 @@
 ![HTML5](https://custom-icon-badges.demolab.com/badge/-HTML5-%23E34F26?logo=HTML5&logoColor=white)
 ![CSS3](https://custom-icon-badges.demolab.com/badge/-CSS3-%231572B6?logo=CSS3&logoColor=white)
 ![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
-![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-%23339933?logo=Node.js&logoColor=white
+![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-%23339933?logo=Node.js&logoColor=white)
 ![Markdown](https://custom-icon-badges.demolab.com/badge/-Markdown-%23000000?logo=Markdown&logoColor=white)
 
 ## 🧰 Frameworks and libraries
@@ -37,6 +37,5 @@
 
 ## ⭐ Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KinXpeng&count_private=true&show_icons=true"/>
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KinXpeng&theme=radical&count_private=true&show_icons=true"/>
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=KinXpeng&repo=Arc&show_owner=true)](https://github.com/KinXpeng)
