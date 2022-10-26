@@ -37,5 +37,22 @@
 
 ## ⭐ Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KinXpeng&theme=radical&count_private=true&show_icons=true"/>
+<div align = "center">
+  <img align = "left" height="200" src = "https://github-readme-stats.vercel.app/api?username=KinXpeng&theme=radical&count_private=true&show_icons=true">
+  <img align = "right" height="200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KinXpeng&theme=tokyonight">
+</div>
+
+
+<!--
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=wangscaler&theme=react-dark">
+</p>
+
+<p align = "center">
+  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=tokyonight">
+</p>
+
+-->
+
+
 
